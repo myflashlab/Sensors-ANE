@@ -57,7 +57,7 @@ Embedding the ANE:
 # Commercial Version
 https://www.myflashlabs.com/product/sensors-ane-adobe-air-native-extension/
 
-[![Sensors ANE](https://www.myflashlabs.com/wp-content/uploads/2019/04/product_adobe-air-ane-sensors.jpg)](https://www.myflashlabs.com/product/sensors-ane-adobe-air-native-extension/)
+[![Sensors ANE](https://www.myflashlabs.com/wp-content/uploads/2019/04/product_adobe-air-ane-sensor.jpg)](https://www.myflashlabs.com/product/sensors-ane-adobe-air-native-extension/)
 
 # Tutorials
 [How to embed ANEs into **FlashBuilder**, **FlashCC** and **FlashDevelop**](https://www.youtube.com/watch?v=Oubsb_3F3ec&list=PL_mmSjScdnxnSDTMYb1iDX4LemhIJrt1O)  
